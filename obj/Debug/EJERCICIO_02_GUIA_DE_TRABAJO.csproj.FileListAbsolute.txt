@@ -1,0 +1,10 @@
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\bin\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.exe.config
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\bin\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.exe
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\bin\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.pdb
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\obj\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.csproj.AssemblyReference.cache
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\obj\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.Form1.resources
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\obj\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.Properties.Resources.resources
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\obj\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.csproj.GenerateResource.cache
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\obj\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.csproj.CoreCompileInputs.cache
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\obj\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.exe
+C:\Users\jacky\source\repos\EJERCICIO_02_GUIA_DE_TRABAJO\obj\Debug\EJERCICIO_02_GUIA_DE_TRABAJO.pdb
